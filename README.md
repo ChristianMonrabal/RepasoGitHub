@@ -34,4 +34,4 @@ Mi nombre es __*Christian*__ y hago un inciso
 
 ##### Imagen
 
-![Lewis Hamilton]( "Imagen Lewis Hamilton")
+![Lewis Hamilton](https://github.com/ChristianMonrabal/RepasoGitHub/blob/main/Lewis%20Hamilton.jfif "Imagen Lewis Hamilton")
