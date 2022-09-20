@@ -32,4 +32,6 @@ Mi nombre es __*Christian*__ y hago un inciso
 ```
 [SoyMotor](https://soymotor.com/noticias "Noticias SoyMotor")
 
+##### Imagen
 
+![Lewis Hamilton] (https://github.com/ChristianMonrabal/RepasoGitHub/blob/main/Lewis%20Hamilton.jfif) "Imagen Lewis Hamilton")
