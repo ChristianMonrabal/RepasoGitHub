@@ -8,3 +8,9 @@ _Este texto aparece en cursiva_
 __Este texto es negro__
 
 Mi nombre es __*Christian*__ y hago un inciso
+
+1. SMX1
+2. SMX2
+3. ASIX1
+4. ASIX2
+5. DAW2
