@@ -15,4 +15,8 @@ Mi nombre es __*Christian*__ y hago un inciso
 4. ASIX2
 5. DAW2
 
-..1 Ordenada
+- SMX1
+- SMX2
+- ASIX1
+- ASIX2
+- DAW2
