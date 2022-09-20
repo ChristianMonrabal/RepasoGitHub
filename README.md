@@ -1,10 +1,10 @@
 # Encabezado 1
 ## Encabezado 2
 
-*Este texto aparece en cursiva*
-_Este texto aparece en cursiva_
+* Este texto aparece en cursiva*
+_ Este texto aparece en cursiva _
 
-**Este texto es negro**
-__Este texto es negro__
+** Este texto es negro **
+__ Este texto es negro __
 
 Mi nombre es __*Christian*__ y hago un inciso
