@@ -19,3 +19,7 @@ Mi nombre es __*Christian*__ y hago un inciso
 ###Lista desordenada
 * Elon MUsk
 * Jeef Bezos
+- Anuel AA
+- Bad Bunny
++ Duki
++ YSY A
